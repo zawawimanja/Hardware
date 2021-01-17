@@ -4,3 +4,5 @@ dump - his process of extracting the firmware image
 controller -  PIC, PLC, Arduino, ESPresso Lite, NodeMCU, ESP32 dan Raspberry Pi.
 
 PLC - digital computer yang digunakan untuk melakukan automation seperti kawalan mesin di kilang dan industri
+
+microcontroller - Integrated circuit yang boleh diprogramkan.
