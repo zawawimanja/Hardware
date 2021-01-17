@@ -1,0 +1,13 @@
+
+
+framebuffer 
+
+initialized data
+
+uninitialized data
+
+dynamic allocation
+
+- malloc ,calloc
+
+static allocated buffer -  move data around & giving error memory consumetion at compile time
