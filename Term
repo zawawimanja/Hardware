@@ -6,3 +6,23 @@ controller -  PIC, PLC, Arduino, ESPresso Lite, NodeMCU, ESP32 dan Raspberry Pi.
 PLC - digital computer yang digunakan untuk melakukan automation seperti kawalan mesin di kilang dan industri
 
 microcontroller - Integrated circuit yang boleh diprogramkan.
+
+external flash
+
+integrated flash
+
+ram
+
+encryption
+
+homebrew
+
+re pin connection
+
+logic analyzer - sniff /SPI commands
+
+custom file loader
+
+buffer
+
+file system function
