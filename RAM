@@ -11,3 +11,9 @@ dynamic allocation
 - malloc ,calloc
 
 static allocated buffer -  move data around & giving error memory consumetion at compile time
+
+itcm ram - arm code
+
+flashdumper - copy external spi flash into ram
+
+flashloader - write encrypted payload into external flash
